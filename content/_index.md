@@ -1,13 +1,13 @@
 ---
-title : "Welcome to Doks"
+title : "OPOS"
 description: ""
-lead: "Congrats on setting up a new Doks project!"
-date: 2023-09-07T16:33:54+02:00
-lastmod: 2023-09-07T16:33:54+02:00
+lead: "The repository of harkl, a digital builder and artist on Solana."
+date: 2023-12-28T16:33:54+02:00
+lastmod: 2023-12-28T16:33:54+02:00
 draft: false
 seo:
- title: "Welcome to Doks" # custom title (optional)
- description: "" # custom description (recommended)
- canonical: "" # custom canonical URL (optional)
- noindex: false # false (default) or true
+ title: "harkl - digital builder and artist on Solana"
+ description: "This is the repository of harkl, a digital builder and artist on Solana."
+ canonical: ""
+ noindex: false
 ---

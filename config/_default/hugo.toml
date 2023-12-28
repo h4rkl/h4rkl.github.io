@@ -17,13 +17,13 @@ defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2023 Hyas"
+copyRight = "Copyright (c) 2023"
 
 [build.buildStats]
   enable = true
 
 [social]
-  twitter = "getdoks"
+  twitter = "harkl_"
 
 [outputs]
   home = ["HTML", "RSS", "searchIndex"]
@@ -45,7 +45,7 @@ noUgly = true
 rel  = "sitemap"
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
 
